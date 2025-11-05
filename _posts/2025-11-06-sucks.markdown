@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      "这也太难找了"
+subtitle:   ""
+date:       2025-11-05 18:25:00
+author:     "Tony L."
+header-img: "img/post-bg-miui-ux.jpg"
+tags:
+    - AI
+---
+<p>怎么这么难找工作啊啊啊啊啊啊啊啊！</p>
