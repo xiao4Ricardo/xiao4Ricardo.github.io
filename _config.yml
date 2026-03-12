@@ -13,11 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-# weibo_username: huxpro
-# zhihu_username: huxpro
 github_username: xiao4Ricardo
-# twitter_username: huxpro
-#facebook_username:  huxpro
 linkedin_username:  ricardo-lei
 
 # Build settings
@@ -59,7 +55,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-# disqus_username: hux
+# disqus_username:
 
 # Netease settings
 # netease_comment: false
@@ -69,8 +65,8 @@ kramdown:
 # ba_track_id: [your track id]
 
 # Google Analytics
-# ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-# ga_domain: huangxuan.me
+# ga_track_id: "" # Format: UA-xxxxxx-xx
+# ga_domain: xiao4ricardo.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.

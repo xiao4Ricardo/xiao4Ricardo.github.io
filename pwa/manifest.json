@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Tony L.'s Blog",
+  "short_name": "Tony L.'s Blog",
+  "description": "An Action Minimalism Programmer.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
