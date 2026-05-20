@@ -2,7 +2,7 @@ Hey, I'm Tony L. (a.k.a. Ricardo, xiao4, Kahou Lei), an Energy Minimalism Progra
 
 I consider myself a hybrid of engineering execution and data-driven insight, fusing the analytical rigor of a B.S. in Statistics and Data Science from [UM](https://www.um.edu.mo/) with the advanced system design of an M.S. in Computer Science from [Columbia](https://www.columbia.edu/)
 
-I am the Founder of GlobeSync, a cross-border e-commerce platform. I am a firm believer in high-value output.
+I am a firm believer in high-value output.
 
 My current physical base is primarily in New York, USA, with aspirations to be a Digital Maverick. My virtual presence can be tracked on [LinkedIn](https://www.linkedin.com/in/ricardo-lei/) and [Github](https://github.com/xiao4Ricardo).
 

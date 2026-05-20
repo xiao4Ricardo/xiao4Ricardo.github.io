@@ -1,6 +1,6 @@
 Hey，我是Tony L.(a.k.a. Ricardo, xiao4, Kahou Lei)，一个致力于将生活极简主义和效率优化贯彻到底的节能主义程序员。自诩是一个[澳大](https://www.um.edu.mo/)统计及数据科学系与[哥大](https://www.columbia.edu/)计算机科学系融合出来的工程实现和数据洞察的混合体。
 
-现为 <del>星寰</del> GlobeSync跨境电商平台的创始人。我是个“高价值产出”的坚定信徒。
+我是个“高价值产出”的坚定信徒。
 
 目前的物理活动范围主要在美帝纽约，也想当个数字游<del>民</del>侠。虚拟分身日常出没于[LinkdeIn](https://www.linkedin.com/in/ricardo-lei/)、[Github](https://github.com/xiao4Ricardo) 等。
 
